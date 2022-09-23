@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thamxiangcong
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning about big data
+- 🌱 I’m currently learning about deep learning
 - 📫 Connect with me on Linkedin: www.linkedin.com/in/thamxiangcong
 
 <!---
